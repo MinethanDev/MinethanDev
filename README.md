@@ -87,7 +87,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Spotify activity
   
 
 <br/>  
