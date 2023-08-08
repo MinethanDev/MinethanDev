@@ -24,6 +24,8 @@
   <a href="https://github.com/minethandev/Feuroleon" target="_blank">
     <img src=https://i.imgur.com/ZS55OES.png>
   </a>
+</div>
+<div align="center">
   <a href="https://discord.gg/yuMYx3MPWb" target="_blank">
     <img src=https://i.imgur.com/UsvQBqN.png>
   </a>
