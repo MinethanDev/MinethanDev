@@ -28,6 +28,9 @@
     <img src=https://i.imgur.com/UsvQBqN.png width=300px>
   </a>
 </div>
+
+<br/> 
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/MinethanDev" target="_blank">
