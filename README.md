@@ -22,12 +22,10 @@
 ## My Creations 
 <div align="center">
   <a href="https://github.com/minethandev/Feuroleon" target="_blank">
-    <img src=https://i.imgur.com/ZS55OES.png>
+    <img src=https://i.imgur.com/ZS55OES.png width=125px>
   </a>
-</div>
-<div align="center">
   <a href="https://discord.gg/yuMYx3MPWb" target="_blank">
-    <img src=https://i.imgur.com/UsvQBqN.png>
+    <img src=https://i.imgur.com/UsvQBqN.png width=125px>
   </a>
 </div>
 ## Connect with me  
