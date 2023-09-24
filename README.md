@@ -25,7 +25,7 @@
     <img src=https://i.imgur.com/ZS55OES.png width=300px>
   </a>
   <a href="https://github.com/MinethanDev/Trudy" target="_blank">
-    <img src=https://i.imgur.com/z7JF68g.jpg width=300px>
+    <img src=https://i.imgur.com/X3LwsLZ.jpg width=300px>
   </a>
 </div>
 
