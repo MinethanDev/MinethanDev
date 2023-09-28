@@ -8,12 +8,9 @@
 
 - 🤖 I’m the creator of [Feuroléon](https://github.com/minethandev/Feuroleon)  
 
-- 🤖 I’m the founder and developper of [French Life Roleplay](https://discord.gg/yuMYx3MPWb)  
+- 🚗 Former manager of a Gmod DarkRP server
 
-- 🌱 I’m currently learning Flask  
-  
-
-- ⚡ Fun fact : I love croissants  
+- 🥖 Oui oui baguette
   
 
 <br/>  
