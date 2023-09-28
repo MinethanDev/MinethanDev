@@ -8,7 +8,7 @@
 
 - 🤖 I’m the creator of [Feuroléon](https://github.com/minethandev/Feuroleon)  
 
-- 🚗 Former manager of a Gmod DarkRP server
+- 🚗 Former founder of a Gmod DarkRP server
 
 - 🥖 Oui oui baguette
   
