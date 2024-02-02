@@ -21,8 +21,8 @@
   <a href="https://github.com/minethandev/Feuroleon" target="_blank">
     <img src=https://i.imgur.com/ZS55OES.png width=250px>
   </a>
-  <a href="https://github.com/MinethanDev/Trudy" target="_blank">
-    <img src=https://i.imgur.com/X3LwsLZ.jpg width=250px>
+  <a href="https://github.com/MinethanDev/cheat-bombparty" target="_blank">
+    <img src=https://i.imgur.com/ygfB9S0.png width=250px>
   </a>
   <a href="https://github.com/MinethanDev/just-monika" target="_blank">
     <img src=https://i.imgur.com/yIeysXG.png width=250px>
