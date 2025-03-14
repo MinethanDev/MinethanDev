@@ -2,7 +2,7 @@
   <img src="https://img.itch.zone/aW1nLzIwMjcxNjE1LnBuZw==/original/cbJE0y.png" align="center" style="width: 75%" />
 </div>
 
-### <div align="center">Hi 👋, my name is Ethan, I'm a French cybersecurity student and I love programming</div>  
+### <div align="center">Hi 👋, my name is Ethan, I'm an hobbyist programmer and a computer science student in cybersecurity</div>
 
 ## My Favorite Creations 
 <div align="center">
