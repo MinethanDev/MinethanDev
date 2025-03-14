@@ -25,7 +25,7 @@
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   
-  <a href="https://twitter.com/MinethanYT" target="_blank">
+  <a href="https://twitter.com/minethan_" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   
@@ -37,14 +37,7 @@
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>
 </div>
-  
 <br/>  
-
-## Spotify activity
-
-<br/>
-  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8qcvg6n1vr3bt0ygwc7cl6075&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MinethanDev&&style=flat-square" align="center" />
