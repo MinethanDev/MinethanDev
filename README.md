@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.itch.zone/aW1nLzIwMjcxNjE1LnBuZw==/original/cbJE0y.png" align="center" style="width: 75%" />
+  <img src="https://img.itch.zone/aW1nLzIxOTc1NDE1LnBuZw==/original/P0GUS8.png" align="center" style="width: 75%" />
 </div>
 
 ### <div align="center">Hi 👋, my name is Ethan, I'm an hobbyist programmer and a computer science student in cybersecurity</div>
