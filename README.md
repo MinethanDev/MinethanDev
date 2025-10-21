@@ -15,23 +15,31 @@
 ## 🚀 Favorite Projects
 
 <div align="center">
-  <a href="https://github.com/minethandev/Feuroleon" target="_blank">
-    <img src="https://i.imgur.com/ZS55OES.png" width="200px"/><br/>
-    <strong>Feuroleon</strong><br/>
-    <em>A Discord bot made for a French inside joke</em>
-  </a>
-  <br/><br/>
-  <a href="https://minethandev.github.io/indochine_song_finder/" target="_blank">
-    <img src="https://raw.githubusercontent.com/MinethanDev/indochine_song_finder/refs/heads/main/assets/favicon.jpg" width="200px"/><br/>
-    <strong>Indochine Song Finder</strong><br/>
-    <em>Find the perfect Indochine song for you!</em>
-  </a>
-  <br/><br/>
-  <a href="https://minethandev.github.io/just-monika/" target="_blank">
-    <img src="https://i.imgur.com/yIeysXG.png" width="200px"/><br/>
-    <strong>Just Monika</strong><br/>
-    <em>A website inspired by a unique moment in DDLC Act 2</em>
-  </a>
+  <table cellspacing="20">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/minethandev/Feuroleon" target="_blank">
+          <img src="https://i.imgur.com/ZS55OES.png" width="200px"/><br/>
+          <strong>Feuroleon</strong><br/>
+          <em>A Discord bot made for a French inside joke</em>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://minethandev.github.io/indochine_song_finder/" target="_blank">
+          <img src="https://raw.githubusercontent.com/MinethanDev/indochine_song_finder/refs/heads/main/assets/favicon.jpg" width="200px"/><br/>
+          <strong>Indochine Song Finder</strong><br/>
+          <em>Find the perfect Indochine song for you!</em>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://minethandev.github.io/just-monika/" target="_blank">
+          <img src="https://i.imgur.com/yIeysXG.png" width="200px"/><br/>
+          <strong>Just Monika</strong><br/>
+          <em>A website inspired by a unique moment in DDLC Act 2</em>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -62,11 +70,18 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinethanDev&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinethanDev&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <table cellspacing="20">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MinethanDev&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinethanDev&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
