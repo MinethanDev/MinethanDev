@@ -1,26 +1,3 @@
-<style>
-.projects-table {
-  border-collapse: collapse;
-  margin: 0 auto;
-}
-.projects-table td {
-  border: none;
-  padding: 20px;
-}
-
-.projects-table a {
-  color: #ffffff !important;
-  text-decoration: none !important;
-  display: inline-block;
-}
-
-.projects-table a:hover,
-.projects-table a:focus {
-  text-decoration: none !important;
-  outline: none;
-}
-</style>
-
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzIxOTc1NDE1LnBuZw==/original/P0GUS8.png" style="width:70%;" />
 </div>
