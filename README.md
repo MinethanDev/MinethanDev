@@ -1,3 +1,26 @@
+<style>
+.projects-table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+.projects-table td {
+  border: none;
+  padding: 20px;
+}
+
+.projects-table a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+.projects-table a:hover,
+.projects-table a:focus {
+  text-decoration: none !important;
+  outline: none;
+}
+</style>
+
 <div align="center">
   <img src="https://img.itch.zone/aW1nLzIxOTc1NDE1LnBuZw==/original/P0GUS8.png" style="width:70%;" />
 </div>
@@ -26,9 +49,9 @@
       </td>
       <td align="center">
         <a href="https://minethandev.github.io/indochine_song_finder/" target="_blank">
-          <img src="https://raw.githubusercontent.com/MinethanDev/indochine_song_finder/refs/heads/main/assets/favicon.jpg" width="200px"/><br/>
-          <strong>Indochine Song Finder</strong><br/>
-          <em>Find the perfect Indochine song for you!</em>
+          <img src="https://blindtest.japonneige.fr/assets/img/blindtest.png" width="200px"/><br/>
+          <strong>Blind Test</strong><br/>
+          <em>Music blind test game using your own Spotify playlists</em>
         </a>
       </td>
       <td align="center">
