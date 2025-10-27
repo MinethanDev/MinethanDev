@@ -69,23 +69,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <table cellspacing="20">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MinethanDev&show_icons=true&theme=radical" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinethanDev&layout=compact&theme=radical" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
