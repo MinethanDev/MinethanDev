@@ -25,17 +25,17 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://minethandev.github.io/indochine_song_finder/" target="_blank">
+        <a href="https://blindtest.japonneige.fr/" target="_blank">
           <img src="https://blindtest.japonneige.fr/assets/img/blindtest.png" width="200px"/><br/>
           <strong>Blind Test</strong><br/>
           <em>Music blind test game using your own Spotify playlists</em>
         </a>
       </td>
       <td align="center">
-        <a href="https://minethandev.github.io/just-monika/" target="_blank">
-          <img src="https://i.imgur.com/yIeysXG.png" width="200px"/><br/>
-          <strong>Just Monika</strong><br/>
-          <em>A website inspired by a unique moment in DDLC Act 2</em>
+        <a href="https://puissance4.japonneige.fr/" target="_blank">
+          <img src="https://japonneige.fr/assets/img/projets/puissance4.png" width="200px"/><br/>
+          <strong>Puissance 4</strong><br/>
+          <em>4 in a row multiplayer game made in PHP</em>
         </a>
       </td>
     </tr>
