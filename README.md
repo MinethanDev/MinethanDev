@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://japonneige.fr/assets/img/namebanner.png" width="60%" alt="Minethan Banner"/>
+  <img src="https://japonneige.fr/assets/img/namebanner.webp" width="60%" alt="Minethan Banner"/>
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ethan!;Cybersecurity+Student;Hobbyist+Developer;Based+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
@@ -29,11 +29,11 @@ fun_fact: I created my GitHub account because of a Discord bot made just for a F
 <td align="center" width="300">
 
 <a href="https://blindtest.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/blindtest.png&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="BlindTest"/><br/>
-<strong>BlindTest</strong>
+<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/blindtest.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="BlindTest"/><br/>
+<strong>Guess The Song</strong>
 </a>
 <br/>
-<sub>Music blind test game with<br/>your Spotify playlists</sub>
+<sub>Music guessing game with<br/>your Spotify playlists</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
@@ -42,7 +42,7 @@ fun_fact: I created my GitHub account because of a Discord bot made just for a F
 <td align="center" width="300">
 
 <a href="https://puissance4.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/puissance4.png&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Puissance 4"/><br/>
+<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/puissance4.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Puissance 4"/><br/>
 <strong>Puissance 4</strong>
 </a>
 <br/>
@@ -96,7 +96,7 @@ fun_fact: I created my GitHub account because of a Discord bot made just for a F
 <td align="center" width="300">
 
 <a href="https://chat.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/chat.png&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="JapoChat"/><br/>
+<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/chat.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="JapoChat"/><br/>
 <strong>JapoChat</strong>
 </a>
 <br/>
