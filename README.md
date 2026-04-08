@@ -55,7 +55,7 @@ fun_fact: I created my GitHub account because of a Discord bot made just for a F
 <td align="center" width="300">
 
 <a href="https://demineur.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/default-project.png&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Demineur"/><br/>
+<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/default-project.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Demineur"/><br/>
 <strong>Demineur</strong>
 </a>
 <br/>
@@ -83,7 +83,7 @@ fun_fact: I created my GitHub account because of a Discord bot made just for a F
 <td align="center" width="300">
 
 <a href="https://minethandev.github.io/just-monika/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/justmonika.png&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Just Monika"/><br/>
+<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/justmonika.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Just Monika"/><br/>
 <strong>Just Monika</strong>
 </a>
 <br/>
