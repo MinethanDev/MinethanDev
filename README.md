@@ -1,203 +1,102 @@
 <div align="center">
-  <img src="https://japonneige.fr/assets/img/namebanner.webp" width="60%" alt="Minethan Banner"/>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ethan!;Cybersecurity+Student;Hobbyist+Developer;Based+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
-  </a>
+
+<img src="https://i.imgur.com/XYxGK3Y.png" alt="Ethan Jallet · Minethan" width="360">
+
+**Engineering student in Digital, Health & AI · Full-stack developer by passion · Creator of [Japonneige](https://japonneige.fr)**
+
+[![Website](https://img.shields.io/badge/minethan.dev-0a0e27?style=for-the-badge&logo=googlechrome&logoColor=white)](https://minethan.dev/en/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-jallet/)
+[![Mail](https://img.shields.io/badge/contact@minethan.dev-0a0e27?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@minethan.dev)
+[![Discord](https://img.shields.io/badge/@minethan-0a0e27?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/701852626253381633)
+
 </div>
 
-<br/>
-
-## `> whoami`
-
-```yaml
-name: Ethan
-location: Amiens, France
-education: Cybersecurity Student (BTS CIEL)
-interests: [Programming, Networking, Cybersecurity, Music]
-currently_learning: [Qt Framework (C++), Advanced Security]
-fun_fact: I created my GitHub account because of a Discord bot made just for a French inside joke
+```console
+❯ status --whoami
+❯ Role        Engineering student in Digital, Health & AI (EiJV / UPJV)
+❯ Based in    Amiens, France
+❯ Languages   French (native) · English (fluent) · Italian (upper-intermediate) · German (elementary)
+❯ Key stack   Python, C++, JavaScript, PHP
+❯ Available   Independent developer, one-off freelance work
 ```
 
-<br/>
+## 👋 About
 
-## `> ls ./featured_projects`
+I'm **Ethan**, a French student passionate about programming and everything IT.
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="300">
+- 🎓 In the **Digital, Health & AI** engineering program at École d'Ingénieurs Jules Verne (Amiens): data science & AI, medical imaging, bioinformatics, biomedical systems.
+- 📜 Holder of a **BTS in IT and Networks**: network administration, Linux, Python / C / C++ development.
+- 🔬 Interned at the **[PériTox](https://peritox.u-picardie.fr/)** laboratory: desktop application controlling 10 power meters simultaneously (C++ / Qt).
+- 🎮 In my free time, I run **Japonneige**, my online game hub.
+- ❤️ Video games, music, football, Korean and Japanese culture.
 
-<a href="https://blindtest.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/blindtest.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="BlindTest"/><br/>
-<strong>Guess The Song</strong>
-</a>
-<br/>
-<sub>Music guessing game with<br/>your Spotify playlists</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+## 🛠️ My stack
 
-</td>
-<td align="center" width="300">
+**Languages**
 
-<a href="https://puissance4.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/puissance4.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Puissance 4"/><br/>
-<strong>Puissance 4</strong>
-</a>
-<br/>
-<sub>Multiplayer Connect 4<br/>browser game</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+![C](https://img.shields.io/badge/C-0a0e27?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0a0e27?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0e27?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0e27?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0a0e27?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0a0e27?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0a0e27?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0a0e27?style=flat-square&logo=css&logoColor=white)
 
-</td>
-<td align="center" width="300">
+**Frameworks, backend & APIs**
 
-<a href="https://demineur.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/default-project.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Demineur"/><br/>
-<strong>Demineur</strong>
-</a>
-<br/>
-<sub>Minesweeper game with<br/>customizable grid</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+![Qt](https://img.shields.io/badge/Qt-0a0e27?style=flat-square&logo=qt&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-0a0e27?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0a0e27?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0a0e27?style=flat-square&logo=flask&logoColor=white)
+![Discord API](https://img.shields.io/badge/Discord_API-0a0e27?style=flat-square&logo=discord&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify_API-0a0e27?style=flat-square&logo=spotify&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="300">
+**Databases**
 
-<a href="https://github.com/MinethanDev/Feuroleon">
-<img src="https://images.weserv.nl/?url=github.com/MinethanDev/Feuroleon/blob/main/assets/pdp.png?raw=true&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Feuroleon"/><br/>
-<strong>Feuroleon</strong>
-</a>
-<br/>
-<sub>Discord bot for a<br/>French inside joke</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+![MySQL](https://img.shields.io/badge/MySQL-0a0e27?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-0a0e27?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0a0e27?style=flat-square&logo=sqlite&logoColor=white)
 
-</td>
-<td align="center" width="300">
+**Tools & systems**
 
-<a href="https://minethandev.github.io/just-monika/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/justmonika.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="Just Monika"/><br/>
-<strong>Just Monika</strong>
-</a>
-<br/>
-<sub>Interactive DDLC<br/>web experience</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+![Git](https://img.shields.io/badge/Git-0a0e27?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0a0e27?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0a0e27?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-0a0e27?style=flat-square&logo=cisco&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0a0e27?style=flat-square&logo=vercel&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-0a0e27?style=flat-square)
 
-</td>
-<td align="center" width="300">
+## 🚀 Projects
 
-<a href="https://chat.japonneige.fr/">
-<img src="https://images.weserv.nl/?url=japonneige.fr/assets/img/projets/chat.webp&w=200&h=200&fit=cover&mask=rounded" width="200px" alt="JapoChat"/><br/>
-<strong>JapoChat</strong>
-</a>
-<br/>
-<sub>Browser-based<br/>chat system</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+### Personal
 
-</td>
-</tr>
-</table>
-</div>
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Japonneige](https://japonneige.fr)** | Multilingual (FR/EN) hub of 5 online games: Blind Test, Connect Four, Semicircle, Sudoku, Minesweeper. Single shared account, Discord login. | PHP · MySQL · JavaScript |
+| **[YouTube Enhancer](https://minethan.dev/en/projets/youtubeenhancer)** | Browser extension that hides Shorts, end cards, sidebar and comments. | JavaScript · WebExtension |
+| **[Feuroléon](https://minethan.dev/en/projets/feuroleon)** | Humorous Discord bot based on the French "Quoi? Feur" joke: replies to every message ending in "Quoi". | Python · Discord.py |
+| **[Tools](https://minethan.dev/tools/en/)** | 5 free web tools, no account, no ads: unit converter, duration calculator, password generator, QR Code, fisheye. | PHP · JavaScript |
 
-<br/>
+### Professional & school
 
-### More Projects
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[F.U.T.A.B.A](https://minethan.dev/en/projets/futaba)** | Diagnostic tool for PSA vehicle dashboard displays, via a 6CLC Mux card or UDP link. | C++ · Qt |
+| **[A.D.A](https://minethan.dev/en/projets/ada)** | Control software for a motorcycle dynamometer bench: power testing, graphs, test history. | C++ · Qt · SQLite |
+| **[M.I.K.U](https://minethan.dev/en/projets/miku)** | PériTox internship: simultaneous acquisition of 10 GPM-8213 power meters, real-time monitoring, data export. | C++ · Qt · Serial |
+| **[Ame Videos](https://amevideos.japonneige.fr/)** | Showcase website for AmeAtheEna, video editor. | HTML5 · CSS3 · JavaScript |
+| **[Judas Bricaut](https://minethan.dev/en/projets/judasbricaut)** | Cross-country race results for a fictional school: search by bib number, rankings. | Python · Flask · SQLite |
+
+## 📫 Find me
+
+Got a project in mind? A question? I'm available as an **independent developer** for one-off freelance work.
+
+[![X](https://img.shields.io/badge/X-0a0e27?style=flat-square&logo=x&logoColor=white)](https://x.com/minethan_)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0e27?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/minethangele/)
+[![Twitch](https://img.shields.io/badge/Twitch-0a0e27?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/minethan)
+[![YouTube](https://img.shields.io/badge/YouTube-0a0e27?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Minethan_)
 
 <div align="center">
-
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| [Indochine Song Finder](https://minethandev.github.io/indochine_song_finder/) | Song recommender based on themes | JS, HTML |
-| [K-Reviews](https://kpop.japonneige.fr/) | K-Pop album & music video reviews | PHP |
-| [JapoComptes](https://accounts.japonneige.fr/) | Unified account system | PHP |
-| **M.I.K.U** | Wattmeter control app (internship) | C++, Qt |
-| **A.D.A** | Motorcycle diagnostic tool | C++, Qt |
-| **Judas Bricaut** | Cross-country race results site | Python, Flask |
-
-</div>
-
-<br/>
-
-## `> cat ./tech_stack.json`
-
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
-## `> cat ./stats.md`
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinethanDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinethanDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-</div>
-
-<br/>
-
-## `> ./connect.sh`
-
-<div align="center">
-
-  <a href="https://japonneige.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-japonneige.fr-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MinethanDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MinethanDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/minethan_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@minethan__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/minethangele" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@minethangele-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@Minethan_" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@Minethan__-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.twitch.tv/minethan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-minethan-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>Art by <a href="https://www.instagram.com/magiskon__/">@magiskon</a></sub>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=MinethanDev&style=flat-square&color=58A6FF" alt="Profile Views"/>
+<sub>Art by <a href="https://www.instagram.com/magiskon__/">@magiskon</a></sub>
 </div>
